@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d755a6ac-e6de-40b0-9e5d-59a1cdda7756" name="Changes" comment="remove the EnquiryForm class; add test case to check the name of the class">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="d755a6ac-e6de-40b0-9e5d-59a1cdda7756" name="Changes" comment="created the main method in EnquiryForm.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/jdp/EnquiryForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/jdp/EnquiryForm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -59,6 +61,19 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.EnquiryFormTest">
+    <configuration name="EnquiryForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niit.jdp.EnquiryForm" />
+      <module name="C1_S2_Enquiry_Form" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.niit.jdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EnquiryFormTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="C1_S2_Enquiry_Form" />
       <extension name="coverage">
@@ -100,6 +115,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.EnquiryFormTest" />
+        <item itemvalue="Application.EnquiryForm" />
         <item itemvalue="JUnit.EnquiryFormTest.testClassName" />
         <item itemvalue="Java Scratch.Scratch" />
       </list>
@@ -156,7 +172,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659496674868</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added EnquiryForm.java">
+      <created>1659512494611</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659512494611</updated>
+    </task>
+    <task id="LOCAL-00008" summary="created the main method in EnquiryForm.java">
+      <created>1659512531593</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659512531593</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,7 +207,9 @@
     <MESSAGE value="added the CI script for GitLab" />
     <MESSAGE value="added test cases" />
     <MESSAGE value="remove the EnquiryForm class; add test case to check the name of the class" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove the EnquiryForm class; add test case to check the name of the class" />
+    <MESSAGE value="added EnquiryForm.java" />
+    <MESSAGE value="created the main method in EnquiryForm.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="created the main method in EnquiryForm.java" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
