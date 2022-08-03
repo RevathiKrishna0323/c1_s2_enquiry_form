@@ -21,6 +21,15 @@ class EnquiryFormTest {
     }
 
     @Test
+    @DisplayName("The name of the class should be exactly `EnquiryForm`.")
+    @Order(1)
+    void testClassName() {
+        EnquiryForm ef = new EnquiryForm();
+        assertEquals("EnquiryForm", ef.getClass().getSimpleName(),
+                "The name of the class should be exactly `EnquiryForm`.");
+    }
+
+    @Test
     @DisplayName("The value of name should be printed.")
     @Order(1)
     void shouldPrintValueOfName() {
