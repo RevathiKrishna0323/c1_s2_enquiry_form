@@ -34,7 +34,7 @@ Write a program in Java to help the bank collect customer details that are given
 Task
 ---
 
-1. Create a `Java` class named `EnquiryForm`.
+1. Create a new `Java` class named `EnquiryForm` in `src > main > java > com.niit.jdp`.
 2. Inside the `main()` method, declare and initialize the variables and values provided in the table.
 3. Display the values using the `System.out.println()` statements.
 2. Open the [test case file](src/test/java/com/niit/jdp/EnquiryFormTest.java) and run the test cases to check your code.
