@@ -35,9 +35,10 @@ Task
 ---
 
 1. Create a new `Java` class named `EnquiryForm` in `src > main > java > com.niit.jdp`.
-2. Inside the `main()` method, declare and initialize the variables and values provided in the table.
-3. Display the values using the `System.out.println()` statements.
-2. Open the [test case file](src/test/java/com/niit/jdp/EnquiryFormTest.java) and run the test cases to check your code.
+2. Create a `main` method in `EnquiryForm` class.
+3. Inside the `main()` method, declare and initialize the variables and values provided in the table.
+4. Display the values using the `System.out.println()` statements.
+5. Open the [test case file](src/test/java/com/niit/jdp/EnquiryFormTest.java) and run the test cases to check your code.
 
 ---
 
